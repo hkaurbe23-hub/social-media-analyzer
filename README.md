@@ -61,7 +61,7 @@ This application addresses the challenge of optimizing social media content for 
 ### Installation
 
 1. **Clone the repository**
-git clone https://github.com/Shreytan/Social-Media-Analyzer.git
+https://github.com/hkaurbe23-hub/social-media-analyzer.git
 cd Social-Media-Analyzer
 
 text
@@ -275,9 +275,9 @@ This project is created for technical assessment purposes. MIT License.
 
 ## 📞 Contact
 
-**Shreyansh Shukla** - [GitHub](https://github.com/Shreytan)
+**Harnoor kaur** - [GitHub](https://github.com/hkaurbe23-hub)
 
-**Project Repository:** [https://github.com/Shreytan/Social-Media-Analyzer](https://github.com/Shreytan/Social-Media-Analyzer)
+**Project Repository:** https://github.com/hkaurbe23-hub/social-media-analyzer.git
 
 ---
 
