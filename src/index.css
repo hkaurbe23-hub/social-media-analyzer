@@ -1,0 +1,5 @@
+/* This file is now minimal - Tailwind is loaded via CDN */
+body {
+  margin: 0;
+  padding: 0;
+}
